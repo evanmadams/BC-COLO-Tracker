@@ -1,0 +1,12 @@
+name: BC-COLO-Tracker
+title: BC-COLO-Tracker
+username: evanmadams
+account: evanmadams
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14487774
+bundleId: 10092535
+url: https://evanmadams.shinyapps.io/BC-COLO-Tracker/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
